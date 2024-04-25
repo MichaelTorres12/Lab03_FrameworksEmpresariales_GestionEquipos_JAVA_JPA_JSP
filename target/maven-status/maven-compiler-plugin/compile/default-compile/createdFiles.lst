@@ -1,0 +1,12 @@
+web\EquipoServlet.class
+web\eliminarEquipoServlet.class
+web\modificarEquipoServlet.class
+com\mycompany\lab03deportes\JAXRSConfiguration.class
+dominio\pais.class
+datos\EquiposDao.class
+dominio\equipos.class
+com\mycompany\lab03deportes\resources\JavaEE8Resource.class
+servicio\IEquipoSevice.class
+datos\IEquiposDao.class
+servicio\EquipoService.class
+web\crearEquipoServlet.class
